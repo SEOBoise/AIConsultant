@@ -1,0 +1,13 @@
+figure,category,value,unit,population_or_boundary,period,source_id,evidence_type
+business-adoption,Information,39.7,percent,Percent of businesses reporting AI use; populations overlap,"Census BTOS / period ending May 3, 2026",2,survey estimate
+business-adoption,Finance and insurance,33.9,percent,Percent of businesses reporting AI use; populations overlap,"Census BTOS / period ending May 3, 2026",2,survey estimate
+business-adoption,All U.S. businesses,19.8,percent,Percent of businesses reporting AI use; populations overlap,"Census BTOS / period ending May 3, 2026",2,survey estimate
+reported-time,Less than 1 hour saved,25,percent,Percent of prior-week workplace AI users; self-reported time,Census HTOPS / March 2026; revised September 2026,3,survey estimate
+reported-time,1-2 hours saved,31,percent,Percent of prior-week workplace AI users; self-reported time,Census HTOPS / March 2026; revised September 2026,3,survey estimate
+reported-time,3-4 hours saved,15,percent,Percent of prior-week workplace AI users; self-reported time,Census HTOPS / March 2026; revised September 2026,3,survey estimate
+reported-time,More than 4 hours saved,15,percent,Percent of prior-week workplace AI users; self-reported time,Census HTOPS / March 2026; revised September 2026,3,survey estimate
+reported-time,No time saved,10,percent,Percent of prior-week workplace AI users; self-reported time,Census HTOPS / March 2026; revised September 2026,3,survey estimate
+reported-time,Additional time needed,4,percent,Percent of prior-week workplace AI users; self-reported time,Census HTOPS / March 2026; revised September 2026,3,survey estimate
+task-accuracy,No AI access,84.5,percent,Percent correct on one outside-frontier experimental task,HBS / BCG experiment; April 2026 published-study summary,5,experiment
+task-accuracy,GPT access,70.6,percent,Percent correct on one outside-frontier experimental task,HBS / BCG experiment; April 2026 published-study summary,5,experiment
+task-accuracy,GPT + prompt overview,60,percent,Percent correct on one outside-frontier experimental task,HBS / BCG experiment; April 2026 published-study summary,5,experiment

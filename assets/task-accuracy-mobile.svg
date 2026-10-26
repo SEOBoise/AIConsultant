@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="360" height="350" preserveAspectRatio="xMinYMin meet" viewBox="0 0 360 350" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="360" height="350"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-350)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="360" height="350" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="18" y="288.0" style="font-family: Helvetica; font-size: 12px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,576) scale(1,-1)">No AI access</text>
+			<rect x="18" y="258.0" width="294" height="24.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<rect x="18" y="258.0" width="248.43" height="24.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="272.43" y="264.0" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,528) scale(1,-1)">84.5%</text>
+			<text x="18" y="198.0" style="font-family: Helvetica; font-size: 12px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,396) scale(1,-1)">GPT access</text>
+			<rect x="18" y="168.0" width="294" height="24.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<rect x="18" y="168.0" width="207.56399999999996" height="24.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+			<text x="231.56399999999996" y="174.0" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,348) scale(1,-1)">70.6%</text>
+			<text x="18" y="108.0" style="font-family: Helvetica; font-size: 12px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,216) scale(1,-1)">GPT + prompt overview</text>
+			<rect x="18" y="78.0" width="294" height="24.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,96%); fill-rule: evenodd;"/>
+			<rect x="18" y="78.0" width="176.4" height="24.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+			<text x="200.4" y="84.0" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,168) scale(1,-1)">60%</text>
+			<text x="18" y="24" style="font-family: Helvetica; font-size: 10px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,48) scale(1,-1)">Scale: 0-100%. One task; not a universal AI result.</text>
+		</g>
+	</g>
+</svg>
